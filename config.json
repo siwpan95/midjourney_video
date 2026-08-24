@@ -1,0 +1,19 @@
+{
+  "proxy": "",
+  "keys": {
+    "unsplash": "",
+    "pexels": "",
+    "flickr": "",
+    "wallhaven": ""
+  },
+  "proxy_sources": {
+    "zdopen": {
+      "app_id": "",
+      "akey": ""
+    },
+    "zdaye": {
+      "username": "",
+      "password": ""
+    }
+  }
+}

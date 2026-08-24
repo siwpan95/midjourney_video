@@ -1,0 +1,5 @@
+# midjourney_video dependencies (auto-generated 2026-08-20)
+httpx
+moviepy
+proglog
+proxy_fetcher

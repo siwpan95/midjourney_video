@@ -1,0 +1,14 @@
+{
+  "name": "midjourney_video_url",
+  "display": "Midjourney Video 指定链接 (浏览器)",
+  "driver": "browser",
+  "needs_browser": true,
+  "require_content_url": true,
+  "browser": {
+    "explore_url": "https://www.midjourney.com/explore",
+    "api_path": "/api/explore",
+    "cdn": "https://cdn.midjourney.com",
+    "tab": "video_top",
+    "build": {"url_template": "{cdn}/video/{id}/0.mp4", "variants": 1}
+  }
+}

@@ -1,0 +1,30 @@
+2026-07-18 20:10:43,480 [INFO] ================================================================
+2026-07-18 20:10:43,480 [INFO] Midjourney Video 下载 | 源=['midjourney_video'] | 每源 max=100
+2026-07-18 20:10:43,480 [INFO] 输出根: G:\tools\midjourney_video\images
+2026-07-18 20:10:43,480 [INFO] ================================================================
+2026-07-18 20:10:43,543 [INFO] [midjourney_video] (浏览器) tab=video_top size=thumb max=100
+2026-07-18 20:10:53,997 [INFO]   页面标题: Just a moment...
+2026-07-18 20:11:00,001 [WARNING]   Cloudflare challenge 检测到，等待自动通过...
+2026-07-18 20:11:31,451 [INFO]   Cloudflare 等待结束，页面标题: Explore
+2026-07-18 20:11:31,451 [INFO]   滚动加载 (最多 20 次)…
+2026-07-18 20:11:32,233 [INFO]   响应: https://www.midjourney.com/api/explore?page=0&feed=video_top&_ql=explore status=200
+2026-07-18 20:11:32,848 [INFO]   响应: https://www.midjourney.com/api/explore?page=1&feed=video_top&_ql=explore status=200
+2026-07-18 20:11:34,687 [INFO]   响应: https://proxima.midjourney.com/ status=200
+2026-07-18 20:12:04,624 [INFO]   API 响应命中: 3 次
+2026-07-18 20:12:04,624 [INFO]   捕获 18 jobs
+2026-07-18 20:12:04,625 [INFO]   CDN URL 模板: {cdn}/video/{id}/0.mp4
+2026-07-18 20:12:04,625 [INFO]   CDN URL 模板构造: 18/18 个
+2026-07-18 20:12:04,625 [INFO]   下载任务: 18
+2026-07-18 20:12:38,767 [INFO]   [1] midjourney_video_a8a612fbc097.mp4
+2026-07-18 20:12:40,902 [INFO]   [2] midjourney_video_e75e7bea88bb.mp4
+2026-07-18 20:12:41,847 [INFO]   [3] midjourney_video_0a1c7986e645.mp4
+2026-07-18 20:12:44,636 [INFO]   [4] midjourney_video_ddcc8cf5ff71.mp4
+2026-07-18 20:12:49,912 [INFO]   [5] midjourney_video_ce6385b046c4.mp4
+2026-07-18 20:13:21,683 [INFO]   元数据: G:\tools\midjourney_video\meta\midjourney_video_20260718_201321.json (13 imgs)
+2026-07-18 20:13:21,686 [WARNING]   失败清单已导出: G:\tools\midjourney_video\meta\failed_midjourney_video_20260718_201321.json (5 个 URL，可用 --retry-failed 重投)
+2026-07-18 20:13:24,850 [INFO] [midjourney_video] 完成 161.3s | 获取 18 | 下载 13 | 跳过 0 | 失败 5
+2026-07-18 20:13:24,851 [INFO] ================================================================
+2026-07-18 20:13:24,851 [INFO] 总览:
+2026-07-18 20:13:24,851 [INFO]   midjourney_video     {'fetched': 18, 'downloaded': 13, 'skipped': 0, 'errors': 5, 'elapsed': 161.3}
+2026-07-18 20:13:24,851 [INFO] 总耗时: 161.4s
+2026-07-18 20:13:24,851 [INFO] ================================================================
