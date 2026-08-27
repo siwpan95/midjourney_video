@@ -1,0 +1,8 @@
+{
+  "name": "midjourney-video",
+  "version": "1.0.0",
+  "entry": "run.py",
+  "interface": ["fetch", "download"],
+  "description": "Midjourney 视频/图集助手",
+  "python": "auto"
+}
