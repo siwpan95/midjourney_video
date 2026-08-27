@@ -1,8 +1,8 @@
 {
   "name": "midjourney-video",
   "version": "1.0.0",
-  "entry": "run.py",
+  "entry": "gui.py",
   "interface": ["fetch", "download"],
-  "description": "Midjourney 视频/图集助手",
+  "description": "Midjourney 视频/图集助手（Playwright，GUI 入口）",
   "python": "auto"
 }
