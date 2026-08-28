@@ -1,0 +1,9 @@
+﻿
+
+# 未跟踪产物/输出治理（2026-08-28）
+*.spec
+__pycache__/
+build/
+dist/
+images/
+meta/
