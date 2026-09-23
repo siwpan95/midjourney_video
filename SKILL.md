@@ -1,6 +1,6 @@
 ---
 name: midjourney-video
-description: Maintain midjourney_video downloader (G:/tools/crawler/midjourney_video). Playwright-based Midjourney video downloader.
+description: Maintain midjourney_video downloader (本 SKILL.md 所在仓库根). Playwright-based Midjourney video downloader.
 agent_created: true
 ---
 
