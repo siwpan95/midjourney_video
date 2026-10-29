@@ -15,7 +15,7 @@ Playwright 抓取 Midjourney Explore 页面视频下载：CLI 统一启动器 + 
 - images/ meta/ midjourney_video/：下载输出（资产目录，建议本地保留不进版本库）
 
 ## 常用命令
-- F:\Python314\python.exe run.py --source midjourney_video --max-images 50
+- /Python314/python.exe run.py --source midjourney_video --max-images 50
 
 ## 已知陷阱
 - 需 Playwright 浏览器内核 + 联网，离线仅能 py_compile
