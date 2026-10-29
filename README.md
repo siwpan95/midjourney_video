@@ -1,3 +1,8 @@
+> ⚠️ **已不再维护 / Archived — No longer maintained**
+>
+> 本仓库已停止开发投入，仅作归档保留，不再接收功能更新或 issue。代码保持原样，仅供历史参考。
+> _This repository is no longer maintained. It is archived as-is for historical reference only._
+
 # midjourney_video
 
 > 仓库：<https://gitee.com/siwpan/midjourney_video> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
